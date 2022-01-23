@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Soups on Brenot Family Recipes</title>
+    <link>https://recipes.brenot.ca/categories/soups/</link>
+    <description>Recent content in Soups on Brenot Family Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 22 Mar 2015 18:18:55 +0000</lastBuildDate><atom:link href="https://recipes.brenot.ca/categories/soups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ginger carrot tofu soup</title>
+      <link>https://recipes.brenot.ca/recipes/ginger-carrot-tofu-soup/</link>
+      <pubDate>Sun, 22 Mar 2015 18:18:55 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/ginger-carrot-tofu-soup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roasted Butternut Squash Soup</title>
+      <link>https://recipes.brenot.ca/recipes/roasted-butternut-squash-soup/</link>
+      <pubDate>Sun, 08 Dec 2013 16:24:05 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/roasted-butternut-squash-soup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pumpkin Shrimp Curry</title>
+      <link>https://recipes.brenot.ca/recipes/pumpkin-shrimp-curry/</link>
+      <pubDate>Mon, 23 Jan 2012 11:00:48 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/pumpkin-shrimp-curry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creamy Mashed Potato Soup</title>
+      <link>https://recipes.brenot.ca/recipes/creamy-mashed-potato-soup/</link>
+      <pubDate>Fri, 06 Apr 2007 17:27:13 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/creamy-mashed-potato-soup/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cakes on Brenot Family Recipes</title>
+    <link>https://recipes.brenot.ca/categories/cakes/</link>
+    <description>Recent content in Cakes on Brenot Family Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 11 Sep 2011 20:46:51 +0000</lastBuildDate><atom:link href="https://recipes.brenot.ca/categories/cakes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chocolate mug cake</title>
+      <link>https://recipes.brenot.ca/recipes/chocolate-mug-cake/</link>
+      <pubDate>Sun, 11 Sep 2011 20:46:51 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/chocolate-mug-cake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mocha Pudding Cake</title>
+      <link>https://recipes.brenot.ca/recipes/mocha-pudding-cake/</link>
+      <pubDate>Sun, 03 Feb 2008 21:31:09 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/mocha-pudding-cake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Four Layer Pumpkin Cake</title>
+      <link>https://recipes.brenot.ca/recipes/four-layer-pumpkin-cake/</link>
+      <pubDate>Sun, 24 Jun 2007 21:30:25 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/four-layer-pumpkin-cake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strawberry Stripe Refrigerator Cake</title>
+      <link>https://recipes.brenot.ca/recipes/strawberry-stripe-refrigerator-cake/</link>
+      <pubDate>Fri, 06 Apr 2007 22:11:42 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/strawberry-stripe-refrigerator-cake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cranberry Orange Coffee Cake</title>
+      <link>https://recipes.brenot.ca/recipes/cranberry-orange-coffee-cake/</link>
+      <pubDate>Sun, 13 Aug 2006 21:35:53 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/cranberry-orange-coffee-cake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rhubarb Cake</title>
+      <link>https://recipes.brenot.ca/recipes/rhubarb-cake/</link>
+      <pubDate>Fri, 11 Aug 2006 23:03:09 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/rhubarb-cake/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

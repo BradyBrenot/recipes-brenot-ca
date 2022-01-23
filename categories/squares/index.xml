@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Squares on Brenot Family Recipes</title>
+    <link>https://recipes.brenot.ca/categories/squares/</link>
+    <description>Recent content in Squares on Brenot Family Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 13 Mar 2009 20:58:18 +0000</lastBuildDate><atom:link href="https://recipes.brenot.ca/categories/squares/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chocolate Graham Wafer Slice</title>
+      <link>https://recipes.brenot.ca/recipes/chocolate-graham-wafer-slice/</link>
+      <pubDate>Fri, 13 Mar 2009 20:58:18 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/chocolate-graham-wafer-slice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chip n Nut Bars</title>
+      <link>https://recipes.brenot.ca/recipes/chip-n-nut-bars/</link>
+      <pubDate>Fri, 13 Mar 2009 20:49:58 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/chip-n-nut-bars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Easiest Square Ever</title>
+      <link>https://recipes.brenot.ca/recipes/easiest-square-ever/</link>
+      <pubDate>Sun, 03 Feb 2008 21:35:51 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/easiest-square-ever/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crispy Fudge</title>
+      <link>https://recipes.brenot.ca/recipes/crispy-fudge/</link>
+      <pubDate>Fri, 18 Aug 2006 22:59:07 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/crispy-fudge/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

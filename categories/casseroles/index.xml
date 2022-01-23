@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Casseroles on Brenot Family Recipes</title>
+    <link>https://recipes.brenot.ca/categories/casseroles/</link>
+    <description>Recent content in Casseroles on Brenot Family Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 06 Apr 2007 17:42:04 +0000</lastBuildDate><atom:link href="https://recipes.brenot.ca/categories/casseroles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ham &amp; Hashbrown Casserole</title>
+      <link>https://recipes.brenot.ca/recipes/ham-n-hashbrown-casserole/</link>
+      <pubDate>Fri, 06 Apr 2007 17:42:04 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/ham-n-hashbrown-casserole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sweet Potato Casserole</title>
+      <link>https://recipes.brenot.ca/recipes/sweet-potato-casserole/</link>
+      <pubDate>Wed, 30 Aug 2006 21:39:31 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/sweet-potato-casserole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lazy Cabbage Rolls</title>
+      <link>https://recipes.brenot.ca/recipes/lazy-cabbage-rolls/</link>
+      <pubDate>Wed, 09 Aug 2006 22:50:34 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/lazy-cabbage-rolls/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Salads on Brenot Family Recipes</title>
+    <link>https://recipes.brenot.ca/categories/salads/</link>
+    <description>Recent content in Salads on Brenot Family Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 31 Aug 2006 22:31:13 +0000</lastBuildDate><atom:link href="https://recipes.brenot.ca/categories/salads/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Broccoli Salad</title>
+      <link>https://recipes.brenot.ca/recipes/broccoli-salad/</link>
+      <pubDate>Thu, 31 Aug 2006 22:31:13 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/broccoli-salad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Italian Dressing</title>
+      <link>https://recipes.brenot.ca/recipes/italian-dressing/</link>
+      <pubDate>Sun, 13 Aug 2006 21:07:06 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/italian-dressing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oriental Cabbage Salad</title>
+      <link>https://recipes.brenot.ca/recipes/oriental-cabbage-salad/</link>
+      <pubDate>Fri, 11 Aug 2006 23:19:22 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/oriental-cabbage-salad/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

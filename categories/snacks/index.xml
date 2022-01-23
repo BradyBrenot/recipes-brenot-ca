@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Snacks on Brenot Family Recipes</title>
+    <link>https://recipes.brenot.ca/categories/snacks/</link>
+    <description>Recent content in Snacks on Brenot Family Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 02 Apr 2011 11:34:57 +0000</lastBuildDate><atom:link href="https://recipes.brenot.ca/categories/snacks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pita chips</title>
+      <link>https://recipes.brenot.ca/recipes/pita-chips/</link>
+      <pubDate>Sat, 02 Apr 2011 11:34:57 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/pita-chips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poppy Cock</title>
+      <link>https://recipes.brenot.ca/recipes/poppy-cock/</link>
+      <pubDate>Fri, 13 Mar 2009 21:03:46 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/poppy-cock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Twist on Nuts &amp; Bolts</title>
+      <link>https://recipes.brenot.ca/recipes/new-twist-on-nuts-n-bolts/</link>
+      <pubDate>Sat, 26 Aug 2006 23:49:24 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/new-twist-on-nuts-n-bolts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baked Caramel Corn</title>
+      <link>https://recipes.brenot.ca/recipes/baked-caramel-corn/</link>
+      <pubDate>Sat, 26 Aug 2006 00:23:48 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/baked-caramel-corn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

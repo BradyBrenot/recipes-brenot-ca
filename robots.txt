@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://recipes.brenot.ca/sitemap.xml
