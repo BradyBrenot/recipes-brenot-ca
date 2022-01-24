@@ -40,11 +40,6 @@ directions:
     - Sprinkle other toppings; flaky salt, herbs, etc. (Tomatoes or olives should be pressed into the dough slightly)
 - Bake, middle rack, 450F, 20-25 minutes until golden on top
 - Let rest on a rack until a cloth for 5 minutes before serving
-notes:
-- Notes work the same way as directions do.
-- You can use [Markdown formatting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) in
-  notes, directions, and ingredients, as well as the blog thing on the top of the page.
-type: "recipes" # Anything in the "recipes" folder can omit this
 ---
 
 Delicious, crispy, flexible, and it's not even all that hard to make. Watch the accompanying video for some technique advice.
