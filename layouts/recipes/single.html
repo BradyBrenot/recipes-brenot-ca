@@ -47,7 +47,7 @@
           {{- if (reflect.IsSlice $iset_val) }} 
             {{- range $ingredient_as_map := $iset_val}}
               {{- range $val, $am := $ingredient_as_map}}
-              <li>{{ $am }} - {{ $val }}</li>
+              <li>{{ $am | markdownify }} - {{ $val | markdownify }}</li>
               {{- end}}
             {{- end}}
           {{- end}}
@@ -59,7 +59,7 @@
           {{ end }}
           {{- $ingredient_as_map := $rootiset_val}}
           {{- range $val, $am := $ingredient_as_map}}
-          <li>{{ $am }} - {{ $val }}</li>
+          <li>{{ $am | markdownify }} - {{ $val | markdownify }}</li>
           {{- end}}
         {{ end }}
       {{- end}}
@@ -75,7 +75,7 @@
     <h2>Directions</h2>
     <ol>
     {{- range .Params.Directions}}
-      <li>{{ . }}</li>
+      <li>{{ . | markdownify }}</li>
     {{- end}}
     </ol>
   </div>
@@ -86,7 +86,7 @@
     <h2>Notes</h2>
     <ol>
     {{- range .Params.Notes}}
-      <li>{{ . }}</li>
+      <li>{{ . | markdownify }}</li>
     {{- end}}
     </ol>
   </div>
