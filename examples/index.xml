@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Examples on Brenot Family Recipes</title>
+    <link>https://recipes.brenot.ca/examples/</link>
+    <description>Recent content in Examples on Brenot Family Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 24 Jun 2007 22:00:44 +0000</lastBuildDate><atom:link href="https://recipes.brenot.ca/examples/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example Complicated Recipe</title>
+      <link>https://recipes.brenot.ca/examples/example-complicated-recipe/</link>
+      <pubDate>Sun, 24 Jun 2007 22:00:44 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/examples/example-complicated-recipe/</guid>
+      <description>This is an example recipe with multiple instruction sets.</description>
+    </item>
+    
+    <item>
+      <title>Example Recipe With Embeds</title>
+      <link>https://recipes.brenot.ca/examples/example-recipe-with-embeds/</link>
+      <pubDate>Sun, 24 Jun 2007 22:00:44 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/examples/example-recipe-with-embeds/</guid>
+      <description>The text down here at the bottom ends up in the top of the resulting page. Use it as a description, as background, for images, or to link in a Youtube video.
+Formatting You can use Markdown formatting!
+Images Upload the image to the static/images folder, then embed it like this:
+Video Videos can be embedded like this:
+  </description>
+    </item>
+    
+    <item>
+      <title>Example Simple Recipe</title>
+      <link>https://recipes.brenot.ca/examples/example-simple-recipe/</link>
+      <pubDate>Sun, 24 Jun 2007 22:00:44 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/examples/example-simple-recipe/</guid>
+      <description>This is an example recipe with one instruction set.
+The text down here at the bottom ends up in the top of the resulting page. Use it as a description, as background, for images, or to link in a Youtube video.</description>
+    </item>
+    
+  </channel>
+</rss>
