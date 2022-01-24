@@ -16,6 +16,16 @@
     </item>
     
     <item>
+      <title>Example Freeform Recipe</title>
+      <link>https://recipes.brenot.ca/examples/example-freeform/</link>
+      <pubDate>Sun, 24 Jun 2007 22:00:44 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/examples/example-freeform/</guid>
+      <description>You can just ignore the special stuff and just type out your recipe.
+ Cook time: 20 minutes Yield: 1 serving  Ingredients  1 slice - bread 1 tbsp - peanut butter  Directions  Toast the bread (yes! toast it!) Apply peanut butter Eat  Notes  See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet for more instructions on how to format pages.  </description>
+    </item>
+    
+    <item>
       <title>Example Recipe With Embeds</title>
       <link>https://recipes.brenot.ca/examples/example-recipe-with-embeds/</link>
       <pubDate>Sun, 24 Jun 2007 22:00:44 +0000</pubDate>

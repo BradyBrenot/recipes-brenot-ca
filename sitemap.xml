@@ -209,7 +209,13 @@
     <loc>https://recipes.brenot.ca/recipes/best-ever-ribs/</loc>
     <lastmod>2007-06-24T22:00:44+00:00</lastmod>
   </url><url>
+    <loc>https://recipes.brenot.ca/tags/cheap/</loc>
+    <lastmod>2007-06-24T22:00:44+00:00</lastmod>
+  </url><url>
     <loc>https://recipes.brenot.ca/examples/example-complicated-recipe/</loc>
+    <lastmod>2007-06-24T22:00:44+00:00</lastmod>
+  </url><url>
+    <loc>https://recipes.brenot.ca/examples/example-freeform/</loc>
     <lastmod>2007-06-24T22:00:44+00:00</lastmod>
   </url><url>
     <loc>https://recipes.brenot.ca/examples/example-recipe-with-embeds/</loc>
@@ -221,7 +227,13 @@
     <loc>https://recipes.brenot.ca/examples/</loc>
     <lastmod>2007-06-24T22:00:44+00:00</lastmod>
   </url><url>
+    <loc>https://recipes.brenot.ca/tags/quick/</loc>
+    <lastmod>2007-06-24T22:00:44+00:00</lastmod>
+  </url><url>
     <loc>https://recipes.brenot.ca/categories/side/</loc>
+    <lastmod>2007-06-24T22:00:44+00:00</lastmod>
+  </url><url>
+    <loc>https://recipes.brenot.ca/tags/</loc>
     <lastmod>2007-06-24T22:00:44+00:00</lastmod>
   </url><url>
     <loc>https://recipes.brenot.ca/recipes/chicken-quesadillas/</loc>
@@ -405,7 +417,5 @@
     <lastmod>2006-08-09T22:29:09+00:00</lastmod>
   </url><url>
     <loc>https://recipes.brenot.ca/search/</loc>
-  </url><url>
-    <loc>https://recipes.brenot.ca/tags/</loc>
   </url>
 </urlset>
