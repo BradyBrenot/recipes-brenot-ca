@@ -66,7 +66,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/BradyBrenot/recipes-brenot-ca/blob/master/content"
+    URL: "https://github.com/BradyBrenot/recipes-brenot-ca/edit/master/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
