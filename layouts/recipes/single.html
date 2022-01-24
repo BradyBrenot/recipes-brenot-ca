@@ -59,8 +59,12 @@
             <ul>
             {{- if (reflect.IsSlice $iset_val) }} 
               {{- range $ingredient_as_map := $iset_val}}
-                {{- range $val, $am := $ingredient_as_map}}
-                <li>{{ $am | markdownify }} - {{ $val | markdownify }}</li>
+                {{- if reflect.IsMap $ingredient_as_map }}
+                  {{- range $val, $am := $ingredient_as_map}}
+                  <li>{{ $am | markdownify }} - {{ $val | markdownify }}</li>
+                  {{- end}}
+                {{- else}}
+                  <li>{{ $ingredient_as_map | markdownify }}</li>
                 {{- end}}
               {{- end}}
             {{- end}}
@@ -95,7 +99,19 @@
     <h2>Directions</h2>
     <ol>
     {{- range .Params.Directions}}
+      {{- if (reflect.IsMap .) }} 
+        {{- range $step_map_key, $step_map_value := .}}
+        <li>{{ $step_map_key }}
+          <ul>
+          {{- range $val, $am := $step_map_value}}
+            <li>{{ $am | markdownify }}</li>
+          {{- end}}
+          </ul>
+        </li>
+        {{- end}}
+      {{- else}}
       <li>{{ . | markdownify }}</li>
+      {{- end}} 
     {{- end}}
     </ol>
   </div>
