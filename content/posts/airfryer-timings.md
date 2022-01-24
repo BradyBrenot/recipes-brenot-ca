@@ -10,6 +10,19 @@ All timings for 5.8 qt Cosori
 
 Do NOT pre-heat unless it says otherwise
 
+## Crispy Brussel's Sprouts
+
+Clean, remove bad leaves.
+
+Halve them, top-to-bottom (if you do it any other way they'll fall apart)
+
+Toss with oil OR throw directly in basket and then hit them with high smoking point spray oil.
+
+Salt
+
+370F for 14 minutes (or 12-16)
+
+
 ## Apple chips
 
 One of
