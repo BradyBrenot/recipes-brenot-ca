@@ -12,8 +12,10 @@
       <pubDate>Sun, 23 Jan 2022 15:36:03 -0500</pubDate>
       
       <guid>https://recipes.brenot.ca/posts/test-post/</guid>
-      <description>This is a test post.
-Test test.</description>
+      <description>https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+This is a test post.
+Test test.
+Heading level 1 Heading level 2 Heading level 3 Heading level 4 Heading level 5 Heading level 6 Lorem ipsum italic bold.</description>
     </item>
     
   </channel>
