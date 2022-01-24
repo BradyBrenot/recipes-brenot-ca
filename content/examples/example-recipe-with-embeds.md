@@ -10,6 +10,7 @@ date: "2007-06-24 22:00:44"
 ingredients:
 - bread: 1 slice
 - peanut butter: to taste
+- good feelings (optional)
 directions:
 - Toast the bread
 - Apply peanut butter

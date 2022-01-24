@@ -40,28 +40,36 @@
     <h2>Ingredients</h2>
     {{ $isSimpleIngredients := false }}
     {{- range $rootiset_key, $rootiset_val := $.Params.Ingredients }}
-      {{- range $iset_key, $iset_val := $rootiset_val }}
-        {{- if (reflect.IsSlice $iset_val) }} 
-          <h3>{{- $iset_key }}</h3>
-          <ul>
+      {{- if reflect.IsMap $rootiset_val }}
+        {{- range $iset_key, $iset_val := $rootiset_val }}
           {{- if (reflect.IsSlice $iset_val) }} 
-            {{- range $ingredient_as_map := $iset_val}}
-              {{- range $val, $am := $ingredient_as_map}}
-              <li>{{ $am | markdownify }} - {{ $val | markdownify }}</li>
+            <h3>{{- $iset_key }}</h3>
+            <ul>
+            {{- if (reflect.IsSlice $iset_val) }} 
+              {{- range $ingredient_as_map := $iset_val}}
+                {{- range $val, $am := $ingredient_as_map}}
+                <li>{{ $am | markdownify }} - {{ $val | markdownify }}</li>
+                {{- end}}
               {{- end}}
             {{- end}}
-          {{- end}}
-          </ul>
-        {{- else }}
-          {{ if not $isSimpleIngredients }}
-            {{ $isSimpleIngredients = true }}
-            <ul>
+            </ul>
+          {{- else }}
+            {{ if not $isSimpleIngredients }}
+              {{ $isSimpleIngredients = true }}
+              <ul>
+            {{ end }}
+            {{- $ingredient_as_map := $rootiset_val}}
+            {{- range $val, $am := $ingredient_as_map}}
+            <li>{{ $am | markdownify }} - {{ $val | markdownify }}</li>
+            {{- end}}
           {{ end }}
-          {{- $ingredient_as_map := $rootiset_val}}
-          {{- range $val, $am := $ingredient_as_map}}
-          <li>{{ $am | markdownify }} - {{ $val | markdownify }}</li>
-          {{- end}}
+        {{- end}}
+      {{- else}}
+        {{ if not $isSimpleIngredients }}
+          {{ $isSimpleIngredients = true }}
+          <ul>
         {{ end }}
+        <li>{{ $rootiset_val | markdownify }}</li>
       {{- end}}
     {{- end}}
     {{ if $isSimpleIngredients }}
