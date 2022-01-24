@@ -29,7 +29,7 @@ directions:
 - Stretch and fold:
   - Take a corner of the dough, left as high as it will go without tearing, and fold it over the other side. Turn the bowl 90 degrees, and repeat 3 more times.
   - Turn the dough over onto itself, cover, and let rest 25-30 minutes.
-  - Repeat the previous two steps 3 more times. The dough should be come more elastic each time.
+  - Repeat the previous two steps 3 more times. The dough should become more elastic each time.
 - Proof:
     - Drizzle olive oil into a 9x13, turn dough into the pan and gently work to the edges. If dough springs back and won't stay on the edges, cover and rest for 15-20 minutes, then try again.
     - Cover and proof for 45-60 minutes.
@@ -46,5 +46,7 @@ notes:
   notes, directions, and ingredients, as well as the blog thing on the top of the page.
 type: "recipes" # Anything in the "recipes" folder can omit this
 ---
+
+Delicious, crispy, flexible, and it's not even all that hard to make. Watch the accompanying video for some technique advice.
 
 {{< youtube HTD-z1wd0tw >}}
