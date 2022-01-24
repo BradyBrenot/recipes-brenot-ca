@@ -8,9 +8,9 @@ prepTime: 0     # Prep time in minutes
 preheat: "350"
 date: "2007-06-24 22:00:44"
 ingredients:
-- bread: 1 slice
+- bread: 1 slice            # Separate ingredient quantity from name using :
 - peanut butter: to taste
-- good feelings (optional)
+- good feelings (optional)  # You also just can omit the quantity
 directions:
 - Toast the bread
 - Apply peanut butter
