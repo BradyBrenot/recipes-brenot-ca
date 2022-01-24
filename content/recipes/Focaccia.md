@@ -39,7 +39,7 @@ directions:
     - Wisk olive oil and water together with a fork until it emulsifies (2-3 minutes). Pour over dough.
     - Sprinkle other toppings; flaky salt, herbs, etc. (Tomatoes or olives should be pressed into the dough slightly)
 - Bake, middle rack, 450F, 20-25 minutes until golden on top
-- Let rest on a rack until a cloth for 5 minutes before serving
+- Let rest on a rack under a cloth for 5 minutes before serving
 ---
 
 Delicious, crispy, flexible, and it's not even all that hard to make. Watch the accompanying video for some technique advice.
