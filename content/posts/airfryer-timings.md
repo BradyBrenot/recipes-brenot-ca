@@ -1,6 +1,7 @@
 ---
 title: "Air fryer timings and WIP recipes"
 date: 2022-01-23
+author: Brady
 ---
 
 Miscellaneous air fryer stuff timings and stuff that I haven't filtered into recipe pages.
