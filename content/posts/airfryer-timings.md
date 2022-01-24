@@ -11,8 +11,10 @@ Do NOT pre-heat unless it says otherwise
 
 ## Apple chips
 
-350 for 8-10 minutes
-300 for 30 minutes
+One of
+
+- 350 for 8-10 minutes
+- 300 for 30 minutes
 
 ## Asparagus
 
@@ -24,14 +26,14 @@ Do NOT pre-heat unless it says otherwise
 
 ## Easy mushrooms
 
--   8 oz. mushrooms
--   1-2 tbsp olive oil
--   1/2 tsp garlic powder
--   1 tsp soy sauce or Worcestershire sauce
--   kosher salt, to taste
--   black pepper, to taste
--   lemon juice (optional)
--   1 tbsp chopped parsley (optional)
+- 8 oz. mushrooms
+- 1-2 tbsp olive oil
+- 1/2 tsp garlic powder
+- 1 tsp soy sauce or Worcestershire sauce
+- kosher salt, to taste
+- black pepper, to taste
+- lemon juice (optional)
+- 1 tbsp chopped parsley (optional)
 
 1. Halve small/medium mushrooms, or quarter if larger
 2. Toss mushrooms with sauces and spices
@@ -49,6 +51,7 @@ Use toothpicks or a metal wire thing to pin the sandwich, otherwise the bread wi
 3. do it again
 
 ## Quesadillas
+
 Either two tortilla, or one tortilla folded in half, timings don't change.
 
 350F, 8 minutes
