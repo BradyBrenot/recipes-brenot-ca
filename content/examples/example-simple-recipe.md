@@ -5,7 +5,9 @@ source: ""  # Source for the recipe. Can be a website or anything else.
 categories: [Main, Side]  # The categories for this recipe. Can have one, or more than one.
 cookTime: 20    # Cook time in minutes
 prepTime: 0     # Prep time in minutes
+totalTime: 20   # Total time in minutes
 preheat: "350"
+yield: 1 serving
 date: "2007-06-24 22:00:44"
 ingredients:
 - bread: 1 slice            # Separate ingredient quantity from name using :
@@ -17,6 +19,7 @@ directions:
 - Eat
 notes:
 - Notes work the same way as directions do.
+
 type: "recipes" # Anything in the "recipes" folder can omit this
 ---
 

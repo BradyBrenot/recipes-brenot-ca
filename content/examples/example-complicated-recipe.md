@@ -5,6 +5,7 @@ source: ""  # Source for the recipe. Can be a website or anything else.
 categories: [Main, Side]  # The categories for this recipe. Can have one, or more than one.
 cookTime: 20    # Cook time in minutes
 prepTime: 0     # Prep time in minutes
+totalTime: 20   # Total time in minutes
 preheat: "350"
 date: "2007-06-24 22:00:44"
 ingredients:
