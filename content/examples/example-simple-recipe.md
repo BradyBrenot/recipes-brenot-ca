@@ -1,30 +1,35 @@
 ---
-title: Example Simple Recipe
-author: Brady
-source: My brain  # Source for the recipe. Can be a website or anything else.
-categories: [Main, Side]  # The categories for this recipe. First is considered the "main" category.
-tags: [quick, cheap] # Extra tags and keywords
-cookTime: 20    # Cook time in minutes
-prepTime: 0     # Prep time in minutes
-totalTime: 20   # Total time in minutes
-preheat: "350"
-yield: 1 serving
-date: "2007-06-24 22:00:44"
-
-ingredients:
-- bread: 1 slice            # Separate ingredient quantity from name using :
-- peanut butter: to taste
-- good feelings (optional)  # You also just can omit the quantity
-
-directions:
-- Toast the bread
-- Apply peanut butter
-- Eat
-
 notes:
-- Notes work the same way as directions do.
-
-type: "recipes" # Anything in the "recipes" folder can omit this
+  - Notes work the same way as directions do.
+ingredients:
+  - bread: 1 slice
+  - peanut butter: to taste
+  - good feelings (optional)
+author: Brady
+yield: 1 serving
+date: 2007-06-24 22:00:44
+totalTime: 20
+preheat: "350"
+typed_list:
+  - type: type_1_object
+    text: asdasd
+    boolean: true
+    string: asdas
+directions:
+  - Toast the bread
+  - Apply peanut butter
+  - Eat
+cookTime: 20
+title: Example Simple Recipe
+tags:
+  - quick
+  - cheap
+prepTime: 0
+type: recipes
+source: My brain
+categories:
+  - Main
+  - Side
 ---
 
 This is an example recipe with one instruction set.
