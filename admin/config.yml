@@ -16,16 +16,16 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
 
-      - {label: "Source", name: "source", widget: "string"}
-      - {label: "Categories (comma-separated)", name: "categories", widget: "list"}
-      - {label: "Cook Time", name: "cookTime", widget: "number"}
-      - {label: "Prep Time", name: "prepTime", widget: "number"}
-      - {label: "Preheat (℉)", name: "preheat", widget: "number"}
+      - {label: "Source", name: "source", widget: "string", required: false, default: ""}
+      - {label: "Categories (comma-separated)", name: "categories", widget: "list", required: false, default: "", hint: "spicy, slow cooker, other category"}
+      - {label: "Cook Time (minutes)", name: "cookTime", widget: "number", required: false, default: ""}
+      - {label: "Prep Time (minutes)"", name: "prepTime", widget: "number", required: false, default: ""}
+      - {label: "Preheat (℉)", name: "preheat", widget: "number", required: false, default: ""}
 
       - {label: "Body", name: "body", widget: "markdown"}
       - { label: "Author", name: "author", widget: "string", required: false, default: "" }
       - { label: "LastEdited", name: "lastEdited", widget: "hidden", required: false, default: "" }
-      
+
       - label: "Ingredient Sets"
         name: "ingredientsets"
         widget: "list"
