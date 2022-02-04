@@ -7,15 +7,6 @@ media_folder: "static/images/uploads" # Media files will be stored in the repo u
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
-  - name: "posts" # Used in routes, e.g., /admin/collections/blog
-    label: "Posts" # Used in the UI
-    folder: "content/posts" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Body", name: "body", widget: "markdown"}
   - name: "recipes" # Used in routes, e.g., /admin/collections/blog
     label: "Recipes" # Used in the UI
     folder: "content/recipes" # The path to the folder where the documents are stored
@@ -24,7 +15,17 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
+
+      - {label: "Source", name: "source", widget: "string"}
+      - {label: "Categories (comma-separated)", name: "categories", widget: "list"}
+      - {label: "Cook Time", name: "cookTime", widget: "number"}
+      - {label: "Prep Time", name: "prepTime", widget: "number"}
+      - {label: "Preheat (℉)", name: "preheat", widget: "number"}
+
       - {label: "Body", name: "body", widget: "markdown"}
+      - { label: "Author", name: "author", widget: "string", required: false, default: "" }
+      - { label: "LastEdited", name: "lastEdited", widget: "hidden", required: false, default: "" }
+      
       - label: "Ingredient Sets"
         name: "ingredientsets"
         widget: "list"
@@ -34,12 +35,12 @@ collections:
             name: "ingredients"
             widget: "list"
             sortable_fields: ['amount', 'description']
+            summary: "{{amount}} - {{description}}"
             collapsed: false
             minimize_collapsed: true
             fields:
             - {label: "Amount", name: "amount", minimal : true, widget: "string", default: ""}
             - {label: "Description", name: "description", minimal : true, widget: "string", default: ""}
-
       - label: "Direction Sets"
         name: "directionsets"
         widget: "list"
@@ -48,4 +49,25 @@ collections:
           - label: "Steps"
             name: "steps"
             widget: "list"
+            summary: "{{body}}"
+            collapsed: false
+            minimize_collapsed: true
             field: {label: "body", name: "body", minimal: true, widget: "markdown"}
+      - label: "Notes"
+        name: "notes"
+        widget: "list"
+        summary: "{{body}}"
+        collapsed: false
+        minimize_collapsed: true
+        field: {label: "body", name: "body", minimal: true, widget: "markdown"}
+  - name: "posts" # Used in routes, e.g., /admin/collections/blog
+    label: "Posts" # Used in the UI
+    folder: "content/posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Author", name: "author", widget: "string", required: false, default: "" }
+      - { label: "LastEdited", name: "lastEdited", widget: "hidden", required: false, default: "" }
