@@ -22,15 +22,17 @@ collections:
       - {label: "Prep Time (minutes)", name: "prepTime", widget: "number", required: false, default: ""}
       - {label: "Preheat (℉)", name: "preheat", widget: "number", required: false, default: ""}
 
-      - { label: "Description", name: "body", widget: "markdown", hint: "on the actual website, this shows up before the rest of the recipe. Use it for food blogging, videos, a description, whatever"}
+      - { label: "Description", name: "body", widget: "markdown", required: false, hint: "on the actual website, this shows up before the rest of the recipe. Use it for food blogging, videos, a description, whatever"}
       - { label: "Author", name: "author", widget: "string", required: false, default: "", hint: "if left blank, this will be filled in automatically" }
       - { label: "LastEdited", name: "lastEdited", widget: "hidden", required: false, default: "" }
 
       - label: "Ingredient Sets"
         name: "ingredientsets"
         widget: "list"
+        required: false
+        default: []
         fields:
-          - {label: "Name", name: "name", minimal : true, widget: "string", default: "Ingredients"}
+          - {label: "Name", name: "name", minimal : true, widget: "string", default: "Ingredients", required: false}
           - label: "Ingredients"
             name: "ingredients"
             widget: "list"
@@ -39,20 +41,22 @@ collections:
             collapsed: false
             minimize_collapsed: true
             fields:
-            - {label: "Amount", name: "amount", minimal : true, widget: "string", default: ""}
-            - {label: "Description", name: "description", minimal : true, widget: "string", default: ""}
+            - {label: "Amount", name: "amount", minimal : true, widget: "string", required: false, default: ""}
+            - {label: "Description", name: "description", minimal : true, widget: "string", required: false, default: ""}
       - label: "Direction Sets"
         name: "directionsets"
         widget: "list"
+        required: false
+        default: []
         fields:
-          - {label: "Name", name: "name", minimal : true, widget: "string", default: "Directions"}
+          - {label: "Name", name: "name", minimal : true, widget: "string", default: "Directions", required: false}
           - label: "Steps"
             name: "steps"
             widget: "list"
             summary: "{{body}}"
             collapsed: false
             minimize_collapsed: true
-            field: {label: "body", name: "body", minimal: true, widget: "markdown"}
+            field: {label: "body", name: "body", minimal: true, widget: "markdown", required: false}
       - label: "Notes"
         name: "notes"
         widget: "list"
