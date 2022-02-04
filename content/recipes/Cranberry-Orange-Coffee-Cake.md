@@ -7,38 +7,61 @@ cookTime: 0
 prepTime: 0
 preheat: "350"
 date: "2006-08-13 21:35:53"
-ingredients:
-- Crumb Topping:
-  - flour: 3/4 cup
-  - sugar: 1/2 cup
-  - margarine: 1/2 cup
-- Cream Cheese Layer:
-  - cream cheese, softened: 250 g pkg
-  - sugar: 1/3 cup
-  - egg: "1"
-  - vanilla extract: 1 tsp
-- Cake:
-  - flour: 2 cups
-  - sugar: 1 cup
-  - baking powder: 1 1/2 tsp
-  - baking soda: 1/2 tsp
-  - salt: 1/2 tsp
-  - orange juice: 3/4 cup
-  - margarine, melted: 1/4 cup
-  - vanilla extract: 1 tsp
-  - egg, beaten: "1"
-  - coarsely chopped cranberries: 2 cups
-  - grated orange rind: 2 Tbsp
-directions:
-- 'Crumb Topping:  stir together flour, sugar and margarine; set aside.'
-- 'Cream Cheese Layer:  beat cream cheese and sugar until light and fluffy.  Beat
-  in egg and vanilla; set aside.'
-- 'Cake:  combine flour, sugar, baking powder, baking soda and salt.  Stir in juice,
-  margarine, vanilla and egg.  Fold in cranberries and orange rind just until mixed.'
-- Pour cake batter into a 9 inch springform pan.  Spread cream cheese mixture over
-  cake batter.  Sprinkle with crumb topping.
-- Bake for 65 - 75 minutes or until top springs back when lightly touched in centre.
-- Let cool on rack for 15 minutes; remove outside ring and let cool completely.
+ingredientsets:
+- name: Crumb Topping
+  ingredients:
+  - amount: 3/4 cup
+    description: flour
+  - amount: 1/2 cup
+    description: sugar
+  - amount: 1/2 cup
+    description: margarine
+- name: Cream Cheese Layer
+  ingredients:
+  - amount: 250 g pkg
+    description: cream cheese, softened
+  - amount: 1/3 cup
+    description: sugar
+  - amount: "1"
+    description: egg
+  - amount: 1 tsp
+    description: vanilla extract
+- name: Cake
+  ingredients:
+  - amount: 2 cups
+    description: flour
+  - amount: 1 cup
+    description: sugar
+  - amount: 1 1/2 tsp
+    description: baking powder
+  - amount: 1/2 tsp
+    description: baking soda
+  - amount: 1/2 tsp
+    description: salt
+  - amount: 3/4 cup
+    description: orange juice
+  - amount: 1/4 cup
+    description: margarine, melted
+  - amount: 1 tsp
+    description: vanilla extract
+  - amount: "1"
+    description: egg, beaten
+  - amount: 2 cups
+    description: coarsely chopped cranberries
+  - amount: 2 Tbsp
+    description: grated orange rind
+directionsets:
+- name: Directions
+  steps:
+  - 'Crumb Topping:  stir together flour, sugar and margarine; set aside.'
+  - 'Cream Cheese Layer:  beat cream cheese and sugar until light and fluffy.  Beat
+    in egg and vanilla; set aside.'
+  - 'Cake:  combine flour, sugar, baking powder, baking soda and salt.  Stir in juice,
+    margarine, vanilla and egg.  Fold in cranberries and orange rind just until mixed.'
+  - Pour cake batter into a 9 inch springform pan.  Spread cream cheese mixture over
+    cake batter.  Sprinkle with crumb topping.
+  - Bake for 65 - 75 minutes or until top springs back when lightly touched in centre.
+  - Let cool on rack for 15 minutes; remove outside ring and let cool completely.
 notes:
 - Frozen or fresh cranberries may be used.
 ---

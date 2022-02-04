@@ -7,31 +7,53 @@ cookTime: 3
 prepTime: 0
 preheat: ""
 date: "2011-09-11 20:46:51"
-ingredients:
-- Ingredients:
-  - flour: 1/4 cup (4tbsp)
-  - sugar: 1/4 cup
-  - cocoa: 2 tbsp
-  - cinnamon: pinch
-  - egg: "1"
-  - milk: 3 tbsp
-  - vegetable oil: 3 tbsp
-  - vanilla extract: splash
-  - large coffee mug: "1"
-- 'Variation #1 (no egg)':
-  - flour: 1/4 cup
-  - sugar: 1/4 cup
-  - cocoa: 2 tbsp
-  - salt: pinch
-  - cinnamon: pinch
-  - milk: 1/4 cup
-  - vegetable oil: 2 tbsp
-  - vanilla extract: splash
-  - large coffee mug: "1"
-directions:
-- Add dry ingredients to mug and mix.
-- Add wet ingredients, mix.
-- Microwave on high for up to 3 minutes (may take some experimentation)
+ingredientsets:
+- name: Ingredients
+  ingredients:
+  - amount: 1/4 cup (4tbsp)
+    description: flour
+  - amount: 1/4 cup
+    description: sugar
+  - amount: 2 tbsp
+    description: cocoa
+  - amount: pinch
+    description: cinnamon
+  - amount: "1"
+    description: egg
+  - amount: 3 tbsp
+    description: milk
+  - amount: 3 tbsp
+    description: vegetable oil
+  - amount: splash
+    description: vanilla extract
+  - amount: "1"
+    description: large coffee mug
+- name: 'Variation #1 (no egg)'
+  ingredients:
+  - amount: 1/4 cup
+    description: flour
+  - amount: 1/4 cup
+    description: sugar
+  - amount: 2 tbsp
+    description: cocoa
+  - amount: pinch
+    description: salt
+  - amount: pinch
+    description: cinnamon
+  - amount: 1/4 cup
+    description: milk
+  - amount: 2 tbsp
+    description: vegetable oil
+  - amount: splash
+    description: vanilla extract
+  - amount: "1"
+    description: large coffee mug
+directionsets:
+- name: Directions
+  steps:
+  - Add dry ingredients to mug and mix.
+  - Add wet ingredients, mix.
+  - Microwave on high for up to 3 minutes (may take some experimentation)
 notes:
 - 'Variation #1 is less a ''cake'' and more a ''brownie''; while it lacks the structure
   from the egg, it also lacks the salmonella. It requires more careful microwave timing;

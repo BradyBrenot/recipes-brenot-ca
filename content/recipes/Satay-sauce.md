@@ -7,19 +7,32 @@ cookTime: 0
 prepTime: 0
 preheat: ""
 date: "2014-09-15 17:16:48"
-ingredients:
-- peanut butter, almond butter, or cashew butter: about 1/2 cup
-- soy sauce: 1 or 2 tbsp
-- lime juice: a little
-- onion powder or finely diced green onions: some
-- garlic of some form (fresh, paste, powder): some
-- coconut milk: 1 can
-- if no coconut milk, ~1/2 cup milk & 1/4 cup yogurt: or
-- chili flakes or chinese chili paste: some
-- water: some
-directions:
-- Mix all ingredients in a bowl
-- Add to food (e.g. to stir-fried veggies and meat)
+ingredientsets:
+- name: Ingredients
+  ingredients:
+  - amount: about 1/2 cup
+    description: peanut butter, almond butter, or cashew butter
+  - amount: 1 or 2 tbsp
+    description: soy sauce
+  - amount: a little
+    description: lime juice
+  - amount: some
+    description: onion powder or finely diced green onions
+  - amount: some
+    description: garlic of some form (fresh, paste, powder)
+  - amount: 1 can
+    description: coconut milk
+  - amount: or
+    description: if no coconut milk, ~1/2 cup milk & 1/4 cup yogurt
+  - amount: some
+    description: chili flakes or chinese chili paste
+  - amount: some
+    description: water
+directionsets:
+- name: Directions
+  steps:
+  - Mix all ingredients in a bowl
+  - Add to food (e.g. to stir-fried veggies and meat)
 notes: []
 ---
 

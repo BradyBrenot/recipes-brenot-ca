@@ -7,13 +7,21 @@ cookTime: 0
 prepTime: 0
 preheat: ""
 date: "2006-08-11 23:07:54"
-ingredients:
-- cream cheese, softened: 1 250g pkg
-- packed brown sugar: 1/4 cup
-- vanilla: 1 tsp
-- caramel extract: 1 tsp
-directions:
-- Blend ingredients together.  Use a a dip for apple slices.
+ingredientsets:
+- name: Ingredients
+  ingredients:
+  - amount: 1 250g pkg
+    description: cream cheese, softened
+  - amount: 1/4 cup
+    description: packed brown sugar
+  - amount: 1 tsp
+    description: vanilla
+  - amount: 1 tsp
+    description: caramel extract
+directionsets:
+- name: Directions
+  steps:
+  - Blend ingredients together.  Use a a dip for apple slices.
 notes: []
 ---
 

@@ -7,15 +7,24 @@ cookTime: 0
 prepTime: 0
 preheat: ""
 date: "2006-08-09 23:04:50"
-ingredients:
-- water: 7 cups
-- sugar: 2 cups
-- pineapple juice: 2 cups
-- frozen lemonade: 12 oz
-- frozen orange juice: 12 oz
-directions:
-- Heat sugar and water  just enough to dissolve sugar.
-- Mix all ingredients together.  Omit vodka if desired.
+ingredientsets:
+- name: Ingredients
+  ingredients:
+  - amount: 7 cups
+    description: water
+  - amount: 2 cups
+    description: sugar
+  - amount: 2 cups
+    description: pineapple juice
+  - amount: 12 oz
+    description: frozen lemonade
+  - amount: 12 oz
+    description: frozen orange juice
+directionsets:
+- name: Directions
+  steps:
+  - Heat sugar and water  just enough to dissolve sugar.
+  - Mix all ingredients together.  Omit vodka if desired.
 notes: []
 ---
 

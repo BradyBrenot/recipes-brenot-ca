@@ -47,73 +47,29 @@
     </table>
 </div>
 
-  {{- if .Params.Ingredients }}
+  {{- if .Params.ingredientSets }}
   <div class="post-content">
-    <h2>Ingredients</h2>
-    {{ $isSimpleIngredients := false }}
-    {{- range $rootiset_key, $rootiset_val := $.Params.Ingredients }}
-      {{- if reflect.IsMap $rootiset_val }}
-        {{- range $iset_key, $iset_val := $rootiset_val }}
-          {{- if (reflect.IsSlice $iset_val) }} 
-            <h3>{{- $iset_key }}</h3>
-            <ul>
-            {{- if (reflect.IsSlice $iset_val) }} 
-              {{- range $ingredient_as_map := $iset_val}}
-                {{- if reflect.IsMap $ingredient_as_map }}
-                  {{- range $val, $am := $ingredient_as_map}}
-                  <li>{{ $am | markdownify }} - {{ $val | markdownify }}</li>
-                  {{- end}}
-                {{- else}}
-                  <li>{{ $ingredient_as_map | markdownify }}</li>
-                {{- end}}
-              {{- end}}
-            {{- end}}
-            </ul>
-          {{- else }}
-            {{ if not $isSimpleIngredients }}
-              {{ $isSimpleIngredients = true }}
-              <ul>
-            {{ end }}
-            {{- $ingredient_as_map := $rootiset_val}}
-            {{- range $val, $am := $ingredient_as_map}}
-            <li>{{ $am | markdownify }} - {{ $val | markdownify }}</li>
-            {{- end}}
-          {{ end }}
-        {{- end}}
-      {{- else}}
-        {{ if not $isSimpleIngredients }}
-          {{ $isSimpleIngredients = true }}
-          <ul>
-        {{ end }}
-        <li>{{ $rootiset_val | markdownify }}</li>
+    {{- range .Params.ingredientSets}}
+    <h2>{{ .name }}</h2>
+    <table>
+      {{- range .ingredients }}
+      <tr><td>{{ .amount | markdownify }}</td><td>{{ .description | markdownify }}</td></td></tr>
       {{- end}}
+    </table>
     {{- end}}
-    {{ if $isSimpleIngredients }}
-      </ul>
-    {{ end }}
   </div>
   {{- end }}
 
-  {{- if .Params.Directions }}
+  {{- if .Params.directionSets }}
   <div class="post-content">
-    <h2>Directions</h2>
+    {{- range .Params.directionSets}}
+    <h2>{{ .name }}</h2>
     <ol>
-    {{- range .Params.Directions}}
-      {{- if (reflect.IsMap .) }} 
-        {{- range $step_map_key, $step_map_value := .}}
-        <li>{{ $step_map_key }}
-          <ul>
-          {{- range $val, $am := $step_map_value}}
-            <li>{{ $am | markdownify }}</li>
-          {{- end}}
-          </ul>
-        </li>
-        {{- end}}
-      {{- else}}
+      {{- range .steps }}
       <li>{{ . | markdownify }}</li>
-      {{- end}} 
-    {{- end}}
+      {{- end}}
     </ol>
+    {{- end}}
   </div>
   {{- end }}
 

@@ -7,19 +7,30 @@ cookTime: 10
 prepTime: 35
 preheat: ""
 date: "2010-07-21 20:25:12"
-ingredients:
-- round eye steak: 1 lb
-- soy sauce: 4 tbsp
-- white sugar: 4 tbsp
-- vegetable oil: 4 tbsp
-- cloves garlic, minced: "2"
-- green onions: "2"
-- sesame seeds: 2 tbsp
-directions:
-- Mix soy sauce, sugar, oil, garlic, and green onion in a large bowl. Set aside.
-- Cut steak into strips and add to bowl. Marinate for at least 30 minutes or overnight.
-- Cook in wok or frying pan until brown. Add sesame seeds and cook for and additional
-  2 minutes.
+ingredientsets:
+- name: Ingredients
+  ingredients:
+  - amount: 1 lb
+    description: round eye steak
+  - amount: 4 tbsp
+    description: soy sauce
+  - amount: 4 tbsp
+    description: white sugar
+  - amount: 4 tbsp
+    description: vegetable oil
+  - amount: "2"
+    description: cloves garlic, minced
+  - amount: "2"
+    description: green onions
+  - amount: 2 tbsp
+    description: sesame seeds
+directionsets:
+- name: Directions
+  steps:
+  - Mix soy sauce, sugar, oil, garlic, and green onion in a large bowl. Set aside.
+  - Cut steak into strips and add to bowl. Marinate for at least 30 minutes or overnight.
+  - Cook in wok or frying pan until brown. Add sesame seeds and cook for and additional
+    2 minutes.
 notes:
 - |-
   Replace the sugar with sucralose (e.g. Splenda) or stevia, using the substitution on the package.
