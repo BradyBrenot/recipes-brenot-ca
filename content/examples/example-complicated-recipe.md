@@ -19,6 +19,13 @@ ingredients:
       - "garlic, minced": 6 cloves
       - liquid smoke flavouring: 3 Tbsp
       - apple cider vinegar: 3/4 cup
+ingredientsets:
+  - name: Ingredients
+    ingredients:
+      - quantity: "1"
+        description: pie crust
+      - quantity: 1 quantity of
+        description: pie filling
 author: Sabrina
 date: 2007-06-24 22:00:44
 directionsets:
@@ -29,7 +36,8 @@ directionsets:
       - description: 2 cups
         quantity: beans
     directions:
-      - body: test 2 3 4
+      - Make 1 pie
+      - Eat it
 totalTime: 20
 preheat: "350"
 directions:
