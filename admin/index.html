@@ -9,5 +9,23 @@
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
   <script src="https://sharadcodes.github.io/hugo-shortcodes-netlify-cms/dist/hugo_shortcodes_netlify_cms.js"></script>
+  <script>
+  CMS.registerEventListener({
+    name: "preSave",
+    handler: ({ entry }) => {
+      const oldAuthor = entry.get('data').get('author')
+      const author = oldAuthor && oldAuthor != '' ? oldAuthor : JSON.parse(localStorage.getItem('netlify-cms-user')).name;
+      
+      return entry.get('data').set('author', author);
+    },
+  });
+
+  CMS.registerEventListener({
+    name: "preSave",
+    handler: ({ entry }) => {
+      return entry.get('data').set('lastEdited', new Date().toISOString());
+    },
+  });
+  </script>
 </body>
 </html>

@@ -2,16 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://recipes.brenot.ca/</loc>
-    <lastmod>2022-02-04T02:00:06+00:00</lastmod>
-  </url><url>
-    <loc>https://recipes.brenot.ca/posts/</loc>
-    <lastmod>2022-02-04T02:00:06+00:00</lastmod>
-  </url><url>
-    <loc>https://recipes.brenot.ca/posts/test-sadfasdf/</loc>
-    <lastmod>2022-02-04T02:00:06+00:00</lastmod>
-  </url><url>
     <loc>https://recipes.brenot.ca/categories/breakfast/</loc>
+    <lastmod>2022-01-24T11:37:28-05:00</lastmod>
+  </url><url>
+    <loc>https://recipes.brenot.ca/</loc>
     <lastmod>2022-01-24T11:37:28-05:00</lastmod>
   </url><url>
     <loc>https://recipes.brenot.ca/categories/</loc>
@@ -30,6 +24,9 @@
     <lastmod>2022-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://recipes.brenot.ca/recipes/focaccia/</loc>
+    <lastmod>2022-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recipes.brenot.ca/posts/</loc>
     <lastmod>2022-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://recipes.brenot.ca/recipes/ginger-carrot-tofu-soup/</loc>
