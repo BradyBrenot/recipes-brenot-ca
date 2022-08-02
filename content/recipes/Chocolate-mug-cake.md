@@ -55,8 +55,7 @@ directionsets:
   - Add wet ingredients, mix.
   - Microwave on high for up to 3 minutes (may take some experimentation)
 notes:
-- 'Variation #1 is less a ''cake'' and more a ''brownie''; while it lacks the structure
-  from the egg, it also lacks the salmonella. It requires more careful microwave timing;
-  2 minutes 30 seconds seems to work for my 700 watt microwave.'
+- 'Variation #1 is less a ''cake'' and more a ''brownie''. It requires more careful microwave timing;
+  2 minutes 30 seconds seems to work f700 watt microwave.'
 ---
 
