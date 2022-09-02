@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>taco on Brenot Family Recipes</title>
+    <link>https://recipes.brenot.ca/categories/taco/</link>
+    <description>Recent content in taco on Brenot Family Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Sep 2022 18:23:27 +0000</lastBuildDate><atom:link href="https://recipes.brenot.ca/categories/taco/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avocado burrito sauce</title>
+      <link>https://recipes.brenot.ca/recipes/avocado-burrito-sauce/</link>
+      <pubDate>Fri, 02 Sep 2022 18:23:27 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/avocado-burrito-sauce/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
