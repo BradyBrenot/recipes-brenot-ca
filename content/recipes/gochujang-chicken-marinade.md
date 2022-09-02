@@ -10,7 +10,7 @@ cookTime: ""
 prepTime: ""
 preheat: ""
 author: Brady Brenot
-lastEdited: 2022-09-02T18:31:26.658Z
+lastEdited: 2022-09-02T18:41:17.324Z
 ingredientsets:
   - name: Ingredients
     ingredients:
@@ -39,5 +39,8 @@ directionsets:
     steps:
       - Mix ingredients
       - Marinate chicken for at least 1 hour
+notes:
+  - G﻿ochujang and gochugaru can be found in any korean grocery store (or store
+    with korean foods).
 ---
 This gochugaru marinade works great for grilled chicken, but you can also pan fry, roast, or air fry it. Portioned for about 1 pound of boneless chicken.
