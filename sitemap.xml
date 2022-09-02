@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://recipes.brenot.ca/recipes/avocado-burrito-sauce/</loc>
-    <lastmod>2022-09-02T18:23:27+00:00</lastmod>
-  </url><url>
     <loc>https://recipes.brenot.ca/</loc>
+    <lastmod>2022-09-02T18:26:49+00:00</lastmod>
+  </url><url>
+    <loc>https://recipes.brenot.ca/categories/</loc>
+    <lastmod>2022-09-02T18:26:49+00:00</lastmod>
+  </url><url>
+    <loc>https://recipes.brenot.ca/categories/chicken/</loc>
+    <lastmod>2022-09-02T18:26:49+00:00</lastmod>
+  </url><url>
+    <loc>https://recipes.brenot.ca/recipes/gochujang-chicken-marinade/</loc>
+    <lastmod>2022-09-02T18:26:49+00:00</lastmod>
+  </url><url>
+    <loc>https://recipes.brenot.ca/categories/korean/</loc>
+    <lastmod>2022-09-02T18:26:49+00:00</lastmod>
+  </url><url>
+    <loc>https://recipes.brenot.ca/categories/marinade/</loc>
+    <lastmod>2022-09-02T18:26:49+00:00</lastmod>
+  </url><url>
+    <loc>https://recipes.brenot.ca/recipes/</loc>
+    <lastmod>2022-09-02T18:26:49+00:00</lastmod>
+  </url><url>
+    <loc>https://recipes.brenot.ca/recipes/avocado-burrito-sauce/</loc>
     <lastmod>2022-09-02T18:23:27+00:00</lastmod>
   </url><url>
     <loc>https://recipes.brenot.ca/categories/burrito/</loc>
     <lastmod>2022-09-02T18:23:27+00:00</lastmod>
   </url><url>
-    <loc>https://recipes.brenot.ca/categories/</loc>
-    <lastmod>2022-09-02T18:23:27+00:00</lastmod>
-  </url><url>
     <loc>https://recipes.brenot.ca/categories/mexican/</loc>
-    <lastmod>2022-09-02T18:23:27+00:00</lastmod>
-  </url><url>
-    <loc>https://recipes.brenot.ca/recipes/</loc>
     <lastmod>2022-09-02T18:23:27+00:00</lastmod>
   </url><url>
     <loc>https://recipes.brenot.ca/categories/taco/</loc>
@@ -70,9 +82,6 @@
   </url><url>
     <loc>https://recipes.brenot.ca/recipes/roasted-butternut-squash-soup/</loc>
     <lastmod>2013-12-08T16:24:05+00:00</lastmod>
-  </url><url>
-    <loc>https://recipes.brenot.ca/categories/chicken/</loc>
-    <lastmod>2013-12-08T11:57:57+00:00</lastmod>
   </url><url>
     <loc>https://recipes.brenot.ca/categories/slow-cooker/</loc>
     <lastmod>2013-12-08T11:57:57+00:00</lastmod>
