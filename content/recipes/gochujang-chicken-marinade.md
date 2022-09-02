@@ -37,7 +37,7 @@ ingredientsets:
 directionsets:
   - name: Directions
     steps:
-      - M﻿ix ingredients
-      - M﻿arinate chicken for at least 1 hour
+      - Mix ingredients
+      - Marinate chicken for at least 1 hour
 ---
-T﻿his gochugaru marinade works great for grilled chicken, but you can also pan fry, roast, or air fry it.
+This gochugaru marinade works great for grilled chicken, but you can also pan fry, roast, or air fry it. Portioned for about 1 pound of boneless chicken.
