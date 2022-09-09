@@ -5,7 +5,8 @@ The goal is to make a nice recipe database. Principles:
  - This is not a food blog, this is a practical site with minimal cruft
  - It works well on PC and mobile
  - It's blazingly fast
- - Requires minimal hosting resources and minimal administration effort
+ - Requires minimal hosting resources and minimal administration effort. It won't suddenly stop working, it's not vulnerable to attack or to tech decay
+ - Is easy for non-technical family members to contribute to
 
 To these ends, I've settled on a static generated site, using GitHub to host the recipe "database" itself. Recipes are markdown with simple yaml front matter which should be easy to manipulate either programmatically or by hand.
 
