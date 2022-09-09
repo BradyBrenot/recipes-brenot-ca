@@ -44,4 +44,4 @@ notes:
     with korean foods).
   - I've mixed the leftover marinade with some chicken broth and made soup out of it. You could also cook it down (with some water if necessary) to make a sauce. Don't waste it!
 ---
-This gochugaru marinade works great for grilled chicken, but you can also pan fry, roast, or air fry it. Portioned for about 1 pound of boneless chicken.
+This marinade works great for grilled chicken, but you can also pan fry, roast, or air fry it. Portioned for about 1 pound of boneless chicken.
