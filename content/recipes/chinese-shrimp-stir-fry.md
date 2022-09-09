@@ -18,8 +18,8 @@ ingredientsets:
         description: green onions
       - amount: "3"
         description: garlic cloves
-      - amount: "2"
-        description: tbsp ginger
+      - amount: 2 tbsp
+        description: ginger
   - name: Sauce
     ingredients:
       - amount: 2 tbsp
