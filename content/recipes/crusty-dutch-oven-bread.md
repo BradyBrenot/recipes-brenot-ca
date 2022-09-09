@@ -32,12 +32,9 @@ directionsets:
         not spring back.
       - T﻿urn the dough onto a floured surface, and punch it down. Cover with a
         towel and rest 10 to 15 minutes.
-      - >-
-        S﻿hape the dough into a round, smooth ball by pushing back-and-forth on
+      - S﻿hape the dough into a round, smooth ball by pushing back-and-forth on
         the floured surface in a circular motion.
-
-
-        Put the dough onto parchment paper; the paper should be larger than the dough so that you can lift it into the dutch oven later.
+      - Put the dough onto parchment paper; the paper should be larger than the dough so that you can lift it into the dutch oven later.
       - Cover with a towel again and rise the second time, for about an hour.
       - G﻿rease a dutch oven, and place it in your oven. Pre-heat the oven with
         the dutch oven to 450 C.
