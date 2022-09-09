@@ -38,7 +38,7 @@ directionsets:
       - Cover with a towel again and rise the second time, for about an hour.
       - G﻿rease a dutch oven, and place it in your oven. Pre-heat the oven with
         the dutch oven to 450 C.
-      - Once the oven is pre-heated and the second rise is done: S﻿lice a shallow "X" into the top of the dough ball.
+      - Once the oven is pre-heated and the second rise is done, slice a shallow "X" into the top of the dough ball.
       - T﻿ake the dutch oven out and put it on a safe surface (cold stove, or on
         a trivet on the counter). Lift the parchment paper and dough, and
         transfer it into the hot dutch oven. Put the lid on it, and return it to
