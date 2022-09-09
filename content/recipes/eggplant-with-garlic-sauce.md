@@ -71,7 +71,7 @@ directionsets:
       - D﻿ry out your wok (if you steamed in it) and heat it on high until it
         reaches 300-350 F
       - A﻿dd 2 tsp vegetable oil (corn, peanut, ..), heat until shimmering
-      - A﻿dd minced veggie (armomatics) plate and cook for about 30-45 seconds
+      - A﻿dd minced veggie (aromatics) plate and cook for about 30-45 seconds
       - A﻿dd mushrooms and some of the green onions and cook about 30 seconds
       - A﻿dd sweet pepper chunks, cook about 60 seconds
       - A﻿dd sauce, cook until boiling
