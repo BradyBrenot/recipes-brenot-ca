@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Bread on Brenot Family Recipes</title>
+    <title>bread on Brenot Family Recipes</title>
     <link>https://recipes.brenot.ca/categories/bread/</link>
-    <description>Recent content in Bread on Brenot Family Recipes</description>
+    <description>Recent content in bread on Brenot Family Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 23 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://recipes.brenot.ca/categories/bread/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Sep 2022 19:21:24 +0000</lastBuildDate><atom:link href="https://recipes.brenot.ca/categories/bread/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crusty dutch oven bread</title>
+      <link>https://recipes.brenot.ca/recipes/crusty-dutch-oven-bread/</link>
+      <pubDate>Fri, 09 Sep 2022 19:21:24 +0000</pubDate>
+      
+      <guid>https://recipes.brenot.ca/recipes/crusty-dutch-oven-bread/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Focaccia</title>
       <link>https://recipes.brenot.ca/recipes/focaccia/</link>
